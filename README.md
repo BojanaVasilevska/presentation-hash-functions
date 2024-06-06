@@ -19,8 +19,3 @@ Hash functions play a crucial role in various fields such as data structures, cr
 - **Practical**: Includes code examples and exercises to reinforce learning through practice.
 - **Comprehensive**: Covers a wide range of topics related to hash functions, including their properties (deterministic, quick to compute, avalanche effect, etc.), and their use in security and data structures.
 
-## Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/presentation-hash-functions.git
